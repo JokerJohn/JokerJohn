@@ -4,6 +4,4 @@
 - 👯 I am currently focusing on SLAM and high-precision map related research and applications in autonomous driving scenarios.
 - 📫 How to reach me: xhubd@connect.ust.hk
 
-```
-[![JokerJohn's GitHub stats](https://github-readme-stats.vercel.app/api?JokerJohn=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-```
+[![JokerJohn's GitHub stats](https://github-readme-stats.vercel.app/api?username=JokerJohn)](https://github.com/anuraghazra/github-readme-stats)
