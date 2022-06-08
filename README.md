@@ -5,3 +5,5 @@
 - 📫 How to reach me: xhubd@connect.ust.hk
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JokerJohn)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](README/api.svg+xml)](https://github.com/JokerJohn/github-readme-stats)
