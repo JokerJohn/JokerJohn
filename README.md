@@ -10,7 +10,7 @@
 
 - 📈 I am currently focusing on SLAM and high-definition map related research and applications in autonomous driving scenarios.
 
-- ❤️ I love dancing and writing blogs.
+- ❤️ I love street dance and writing blogs.
 
 - 💬 Ask me about anything [here](https://github.com/JokerJohn/JokerJohn/issues) 
 
