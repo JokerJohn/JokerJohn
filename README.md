@@ -34,5 +34,5 @@
 </a>
 
 <a href="https://xchu.net">
-  <img align="right" alt="JokerJohn | CodeSandbox" width="20px" src="README/codesandbox.svg+xml" />
+  <img align="right" alt="JokerJohn | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
