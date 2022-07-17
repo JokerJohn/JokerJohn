@@ -8,9 +8,9 @@
 
 - 💼  I’m a first-year Ph.D. student from RAM-LAB, Robotics Institute of HKUST.
 
-- 📈 I am currently focusing on SLAM and high-definition map related research and applications in autonomous driving scenarios.
+- 📈 I am currently focusing on SLAM and high-definition map in autonomous driving scenarios.
 
-- ❤️ I love street dance and writing blogs.
+- ❤️ I love street dance 、hiking and writing blogs.
 
 - 💬 Ask me about anything [here](https://github.com/JokerJohn/JokerJohn/issues) 
 
