@@ -6,7 +6,7 @@
 
 **About me**
 
-- 💼  I’m a first-year Ph.D. student from RAM-LAB, Robotics Institute of HKUST.
+- 💼  I’m a Ph.D. student from RAM-LAB, Robotics Institute of HKUST.
 
 - 📈 I am currently focusing on SLAM and high-definition map in autonomous driving scenarios.
 
