@@ -1,9 +1,4 @@
 # Hi there 👋
-
-<p align="center"><a href="https://xchu.net"><img width="80%" src="./README/200206C03_C8400-5.jpg" /></a></p>
-
-<br />
-
 **About me**
 
 - 💼  I’m a Ph.D. student from RAM-LAB, Robotics Institute of HKUST.
@@ -20,19 +15,9 @@
 
 #### Top Repositories
 
-<a href="https://github.com/JokerJohn/LIO_SAM_6AXIS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JokerJohn&repo=LIO_SAM_6AXIS&theme=buefy" />
-</a>
-<a href="https://github.com/JokerJohn/UpdatingHDmapByMonoCamera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JokerJohn&repo=UpdatingHDmapByMonoCamera&theme=buefy" />
-</a>
+| <a href="https://github.com/JokerJohn/LIO_SAM_6AXIS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JokerJohn&repo=LIO_SAM_6AXIS&theme=buefy" /></a> | <a href="https://github.com/JokerJohn/UpdatingHDmapByMonoCamera"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JokerJohn&repo=UpdatingHDmapByMonoCamera&theme=buefy" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <a href="https://github.com/JokerJohn/LIO-SAM-6AXIS-INTENSITY">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JokerJohn&repo=LIO-SAM-6AXIS-INTENSITY&theme=buefy" /></a> | <a href="https://github.com/JokerJohn/LIO-SAM-6AXIS-VLOOP"><br/>  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JokerJohn&repo=LIO-SAM-6AXIS-VLOOP&theme=buefy" /><br/></a> |
 
 <br />
 <br />
-<a href="https://xchu.net">
-  <img align="right" alt="JokerJohn | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-
-<a href="https://xchu.net">
-  <img align="right" alt="JokerJohn | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
