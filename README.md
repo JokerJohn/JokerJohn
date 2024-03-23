@@ -1,10 +1,10 @@
 # 🚀 Welcome to My GitHub Universe! 🌌
 
-Hey there, fellow GitHub adventurers! 🌟 I'm thrilled to have you here in my cosmic corner of the digital universe. Allow me to introduce myself—I'm a Ph.D. student at the Robotics Institute of Hong Kong University of Science and Technology, currently embarking on an exciting research journey under the guidance of the brilliant Professor [Ping Tan](https://www.ece.ust.hk/~eept/)). 🤖🔬
+Hey there, fellow GitHub adventurers! 🌟 I'm thrilled to have you here in my cosmic corner of the digital universe. Allow me to introduce myself—I'm a Ph.D. student at the Robotics Institute of Hong Kong University of Science and Technology (HKUST), currently embarking on an exciting research journey under the guidance of the brilliant Professor [Ping Tan]([https://www.ece.ust.hk/~eept/](https://ece.hkust.edu.hk/pingtan)). 🤖🔬
 
 ## 🛰️ Research Odyssey
 
-From 2021 to 2023, I had the privilege of working at the [IADC](https://ram-lab.com/) Lab under the mentorship of Professor Ming Liu. There, I delved into the fascinating realm of large-scale outdoor mapping and localization using LiDAR, specifically in the context of autonomous driving scenarios. 🚗🗺️
+From 2021 to 2023, I had the privilege of working at the [IADC](https://ram-lab.com/) Lab under the mentorship of Professor [Ming Liu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LIU-Ming/eelium). There, I delved into the fascinating realm of large-scale outdoor mapping and localization using LiDAR, specifically in the context of autonomous driving scenarios. 🚗🗺️
 
 Fast forward to 2024 and beyond, as a member of Professor Ping Tan's research group, my focus has shifted to exploring the frontiers of indoor and outdoor localization using LiDAR and vision-based techniques. It's an exhilarating ride, pushing the boundaries of what's possible! 🌍📡
 
