@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Universe! 🌌
 
-Hey there, fellow GitHub adventurers! 🌟 I'm thrilled to have you here in my cosmic corner of the digital universe. Allow me to introduce myself—I'm a Ph.D. student at the Robotics Institute of Hong Kong University of Science and Technology (HKUST), currently embarking on an exciting research journey under the guidance of the brilliant Professor [Ping Tan](https://ece.hkust.edu.hk/pingtan). 🤖🔬
+Hey there, fellow GitHub adventurers! 🌟 I'm thrilled to have you here in my cosmic corner of the digital universe. Allow me to introduce myself—I'm a Ph.D. student at the Robotics Institute of Hong Kong University of Science and Technology (HKUST), currently embarking on an exciting research journey under the guidance of **Professor [Ping Tan](https://ece.hkust.edu.hk/pingtan)**. 🤖🔬
 
 ## 🛰️ Research Odyssey
 
