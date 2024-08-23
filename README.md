@@ -4,7 +4,7 @@ Hey there, fellow GitHub adventurers! 🌟 I'm thrilled to have you here in my c
 
 ## 🛰️ Research Odyssey
 
-From 2021 to 2023, I had the privilege of working at the [IADC](https://ram-lab.com/) Lab. There, I delved into the fascinating realm of large-scale outdoor mapping and localization using LiDAR, specifically in autonomous driving scenarios. Starting in 2020, I have been fortunate to receive research guidance, training, and collaboration from **[Dr. Jin Wu](https://zarathustr.github.io/)(吴荩博士)** and **[Dr. Jianhao Jiao](https://gogojjh.github.io/)(焦健浩博士)**. Their support in both my academic and personal life has been invaluable. Words cannot express my gratitude for their guidance and assistance.🚗🗺️
+From 2021 to 2023, I had the privilege of working at the [IADC](https://ram-lab.com/) Lab. There, I delved into the fascinating realm of large-scale outdoor mapping and localization using LiDAR, specifically in autonomous driving scenarios. Starting in 2021, I have been fortunate to receive research guidance, training, and collaboration from **[Dr. Jin Wu](https://zarathustr.github.io/)(吴荩博士)** and **[Dr. Jianhao Jiao](https://gogojjh.github.io/)(焦健浩博士)**. Their support in both my academic and personal life has been invaluable. Words cannot express my gratitude for their guidance and assistance.🚗🗺️
 
 Fast forward to 2024 and beyond, as a member of Professor Ping Tan's research group, my focus has shifted to exploring the frontiers of indoor and outdoor localization using LiDAR and vision-based techniques. It's an exhilarating ride, pushing the boundaries of what's possible! 🌍📡
 
