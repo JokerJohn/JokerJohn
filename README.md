@@ -1,6 +1,9 @@
 # 👋 Hi there, I'm Xiangcheng Hu
 
+My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visitor!
+
 ## 🎓 Education
+
 - 🏫 Currently: Ph.D. student at the Robotics Institute, Hong Kong University of Science and Technology (HKUST)
 - 👨‍🏫 Supervisor: [Prof. Ping Tan](https://ece.hkust.edu.hk/pingtan)
 
@@ -14,9 +17,11 @@
 - [Dr. Linwei Zheng](https://scholar.google.com/citations?user=70iMcgoAAAAJ&hl=en)
 
 ## 🚀 Research Interests
-- Large-scale outdoor mapping and localization
-- LiDAR and vision localization technologies for autonomous driving
+
+- Large-scale  mapping
+- LiDAR and vision localization 
 - Safety Localization
+- Point cloud registration
 
 ## 💻 Featured Projects
 [![LIO_SAM_6AXIS](https://github-readme-stats.vercel.app/api/pin/?username=JokerJohn&repo=LIO_SAM_6AXIS&theme=buefy)](https://github.com/JokerJohn/LIO_SAM_6AXIS)
@@ -27,8 +32,9 @@
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JokerJohn&show_icons=true&theme=buefy)
 
+[![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JokerJohn&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 📫 How to reach me
+
 Feel free to reach out to me for any questions or ideas through [GitHub Issues](https://github.com/JokerJohn/JokerJohn/issues).
 
----
-⭐️ From [JokerJohn](https://github.com/JokerJohn)
