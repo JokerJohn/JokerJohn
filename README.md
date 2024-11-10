@@ -23,11 +23,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visit
 - Safety Localization
 - Point cloud registration
 
-## 💻 Featured Projects
-[![LIO_SAM_6AXIS](https://github-readme-stats.vercel.app/api/pin/?username=JokerJohn&repo=LIO_SAM_6AXIS&theme=buefy)](https://github.com/JokerJohn/LIO_SAM_6AXIS)
-[![UpdatingHDmapByMonoCamera](https://github-readme-stats.vercel.app/api/pin/?username=JokerJohn&repo=UpdatingHDmapByMonoCamera&theme=buefy)](https://github.com/JokerJohn/UpdatingHDmapByMonoCamera)
-[![LIO-SAM-6AXIS-INTENSITY](https://github-readme-stats.vercel.app/api/pin/?username=JokerJohn&repo=LIO-SAM-6AXIS-INTENSITY&theme=buefy)](https://github.com/JokerJohn/LIO-SAM-6AXIS-INTENSITY)
-[![LIO-SAM-6AXIS-VLOOP](https://github-readme-stats.vercel.app/api/pin/?username=JokerJohn&repo=LIO-SAM-6AXIS-VLOOP&theme=buefy)](https://github.com/JokerJohn/LIO-SAM-6AXIS-VLOOP)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JokerJohn&show_icons=true&theme=buefy)
