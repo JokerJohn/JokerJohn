@@ -4,7 +4,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visit
 
 ## 🎓 Education
 
-- 🏫 Currently: Ph.D. student at the Robotics Institute, Hong Kong University of Science and Technology (HKUST)
+- 🏫 Currently: Ph.D. candidate at the Robotics Institute, Hong Kong University of Science and Technology (HKUST)
 - 👨‍🏫 Supervisor: [Prof. Ping Tan](https://ece.hkust.edu.hk/pingtan)
 
 ## 🔬 Research Experience
@@ -15,6 +15,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visit
 - [Dr. Jin Wu](https://zarathustr.github.io/)
 - [Dr. Jianhao Jiao](https://gogojjh.github.io/)
 - [Dr. Linwei Zheng](https://scholar.google.com/citations?user=70iMcgoAAAAJ&hl=en)
+- [Mr. Hexiang Wei](https://scholar.google.com/citations?user=VwOF_TkAAAAJ&hl=zh-CN)
 
 ## 🚀 Research Interests
 
@@ -27,9 +28,10 @@ My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visit
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JokerJohn&show_icons=true&theme=buefy)
 
-[![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JokerJohn&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📫 How to reach me
 
 Feel free to reach out to me for any questions or ideas through [GitHub Issues](https://github.com/JokerJohn/JokerJohn/issues).
+
+[![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JokerJohn&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
