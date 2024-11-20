@@ -5,7 +5,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visit
 ## 🎓 Education
 
 - 🏫 Currently: Ph.D. candidate at the Robotics Institute, Hong Kong University of Science and Technology (HKUST)
-- 👨‍🏫 Supervisor: [Prof. Ping Tan](https://ece.hkust.edu.hk/pingtan)
 
 ## 🔬 Research Experience
 - 2024-present: HKUST Robotics Institute - Focusing on localization using LiDAR and vision-based techniques
