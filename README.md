@@ -20,7 +20,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visit
 
 - Large-scale  mapping
 - LiDAR and vision localization 
-- Safety Localization
+- Uncertainty estimation
 - Point cloud registration
 
 
