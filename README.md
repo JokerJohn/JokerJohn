@@ -13,7 +13,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visit
 ## 🤝 Collaborating Researchers
 - [Dr. Jin Wu](https://zarathustr.github.io/)
 - [Dr. Jianhao Jiao](https://gogojjh.github.io/)
-- [Dr. Linwei Zheng](https://scholar.google.com/citations?user=70iMcgoAAAAJ&hl=en)
+- [Mr. Linwei Zheng](https://scholar.google.com/citations?user=70iMcgoAAAAJ&hl=en)
 - [Mr. Hexiang Wei](https://scholar.google.com/citations?user=VwOF_TkAAAAJ&hl=zh-CN)
 
 ## 🚀 Research Interests
