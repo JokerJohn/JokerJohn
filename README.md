@@ -4,33 +4,28 @@ My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visit
 
 ## 🎓 Education
 
-- **Ph.D. Candidate**
-   Robotics Institute, Hong Kong University of Science and Technology (HKUST)
-   *Sept. 2021 – Sept. 2025*
-- **Master's Degree in Software Engineering**
-	Beihang University (BUAA)
-   *Sept. 2018 – Feb. 2021*
-- **Bachelor's Degree in Detection, Guidance, and Control Technology**
-   North University of China (NUC)
-   *Sept. 2013 – Jul. 2017*
+- **Ph.D. Candidate** (*Sept. 2021 – Sept. 2025*)
+   - Robotics Institute, Hong Kong University of Science and Technology (HKUST)
+
+- **Master's Degree in Software Engineering** (*Sept. 2018 – Feb. 2021*)
+	- Beihang University (BUAA)
+  
+- **Bachelor's Degree in Detection, Guidance, and Control Technology** (*Sept. 2013 – Jul. 2017*)
+   - North University of China (NUC)
 
 ## 🔬 Research Experience
 
 - **Visiting Ph.D student**
-  University of Toronto, Canada
-  *Jan. 2025 – Aug. 2025*
+  University of Toronto, Canada (*Jan. 2025 – Aug. 2025*)
   *Focus: Model uncertainty in Gaussian splatting*
 - **Ph.D candidate  (Supervisor: [Prof. Ping Tan](https://ece.hkust.edu.hk/pingtan))**
-  HKUST Robotics Institute, Hong Kong
-  *Feb. 2024 – Aug. 2025*
+  HKUST Robotics Institute, Hong Kong (*Feb. 2024 – Aug. 2025*)
   *Focus: Localization using LiDAR and vision-based techniques*
 - **Ph.D student (Supervisor: Prof. Ming Liu)** 
-  [Intelligent Autonomous Driving Center (IADC)](https://ram-lab.com/), HKUST
-  *Sept. 2021 – Jan. 2024*
+  [Intelligent Autonomous Driving Center (IADC)](https://ram-lab.com/), HKUST (*Sept. 2021 – Jan. 2024*)
   Focus: Large-scale outdoor mapping and localization for autonomous driving 
 - **Research Intern (Supervisor: [Prof. Dongbin Zhao](https://people.ucas.ac.cn/~zhaodongbin))**
-  Institute of Automation, Chinese Academy of Sciences
-  *Apr. 2019 – Nov. 2019*
+  Institute of Automation, Chinese Academy of Sciences (*Apr. 2019 – Nov. 2019*)
   Focus: Multi-sensor fusion for localization and mapping in campus environments
 ---
 
