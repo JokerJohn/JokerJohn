@@ -4,11 +4,11 @@ My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visit
 
 ## 🎓 Education
 
-- **Ph.D. Candidate**, Robotics Institute, Hong Kong University of Science and Technology (HKUST) (*Sept. 2021 – Aug. 2025*)
+- **Ph.D. Candidate**, Hong Kong University of Science and Technology (HKUST) (*Sept. 2021 – Aug. 2025*)
    
 - **Master's Degree in Software Engineering** at Beihang University (BUAA) (*Sept. 2018 – Feb. 2021*)
 	
-- **Bachelor's Degree in Detection, Guidance, and Control Technology** at North University of China (NUC) (*Sept. 2013 – Jul. 2017*)
+- **Bachelor's Degree in Detection Guidance and Control Technology** at North University of China (NUC) (*Sept. 2013 – Jul. 2017*)
 
 ## 🔬 Research Experience
 
