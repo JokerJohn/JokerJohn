@@ -12,9 +12,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visit
 
 ## 🔬 Research Experience
 
-- **Visiting Ph.D student**
-  - University of Toronto, Canada (*Jan. 2025 – Aug. 2025*)
-  - *Model uncertainty in Gaussian splatting*
 - **Ph.D candidate  (Supervisor: [Prof. Ping Tan](https://ece.hkust.edu.hk/pingtan))**
   - HKUST Robotics Institute, Hong Kong (*Feb. 2024 – Aug. 2025*)
   - *Localization using LiDAR and vision-based techniques*
@@ -24,6 +21,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visit
 - **Research Intern (Supervisor: [Prof. Dongbin Zhao](https://people.ucas.ac.cn/~zhaodongbin))**
   - Institute of Automation, Chinese Academy of Sciences, Beijing (*Apr. 2019 – Nov. 2019*)
   - Multi-sensor fusion for localization and mapping in campus environments
+
 ---
 
 ## 🤝 Collaborating Researchers
