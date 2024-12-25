@@ -22,13 +22,13 @@ My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visit
   - [Intelligent Autonomous Driving Center (IADC)](https://ram-lab.com/), HKUST (*Sept. 2021 – Jan. 2024*)
   - Large-scale outdoor mapping and localization for autonomous driving 
 - **Research Intern (Supervisor: [Prof. Dongbin Zhao](https://people.ucas.ac.cn/~zhaodongbin))**
-  - Institute of Automation, Chinese Academy of Sciences (*Apr. 2019 – Nov. 2019*)
+  - Institute of Automation, Chinese Academy of Sciences, Beijing (*Apr. 2019 – Nov. 2019*)
   - Multi-sensor fusion for localization and mapping in campus environments
 ---
 
 ## 🤝 Collaborating Researchers
 I have had the privilege to collaborate with talented researchers:
-- [Dr. Jin Wu](https://zarathustr.github.io/), [Dr. Jianhao Jiao](https://gogojjh.github.io/),  [Mr. Linwei Zheng](https://scholar.google.com/citations?user=70iMcgoAAAAJ&hl=en), [Mr. Hexiang Wei](https://scholar.google.com/citations?user=VwOF_TkAAAAJ&hl=zh-CN)
+- [Dr. Jin Wu](https://zarathustr.github.io/), [Dr. Jianhao Jiao](https://gogojjh.github.io/),  [Mr. Linwei Zheng](https://scholar.google.com/citations?user=70iMcgoAAAAJ&hl=en), [Mr. Hexiang Wei](https://scholar.google.com/citations?user=VwOF_TkAAAAJ&hl=zh-CN), [Mr.Zuhao Zou](https://github.com/zuhaozou2017)
 
 ## 🚀 Research Interests
 
