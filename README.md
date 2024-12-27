@@ -12,21 +12,22 @@ My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visit
 
 ## 🔬 Research Experience
 
-- **Visiting Ph.D student** (*Jan. 2025 – Aug. 2025*)
-  - Semantic mapping
+- **Visiting Ph.D student** 
+  - *Semantic mapping* (*Jan. 2025 – Aug. 2025*)
 - **Ph.D candidate  (Supervisor: [Prof. Ping Tan](https://ece.hkust.edu.hk/pingtan))**
   - HKUST Robotics Institute, Hong Kong (*Feb. 2024 – Aug. 2025*)
   - *Localization using LiDAR and vision-based techniques*
 - **Ph.D student (Supervisor: [Prof. Ming Liu](https://scholar.google.com/citations?hl=en&user=CdV5LfQAAAAJ))** 
   - [Intelligent Autonomous Driving Center (IADC)](https://ram-lab.com/), HKUST (*Sept. 2021 – Jan. 2024*)
-  - Large-scale outdoor mapping and localization for autonomous driving 
+  - *Large-scale outdoor mapping and localization for autonomous driving*
 - **Research Intern (Supervisor: [Prof. Dongbin Zhao](https://people.ucas.ac.cn/~zhaodongbin))**
   - Institute of Automation, Chinese Academy of Sciences, Beijing (*Apr. 2019 – Nov. 2019*)
-  - Multi-sensor fusion for localization and mapping in campus environments
+  - *Multi-sensor fusion for localization and mapping in campus environments*
 
 ---
 
 ## 🤝 Collaborating Researchers
+
 I have had the privilege to collaborate with talented researchers:
 - [Dr. Jin Wu](https://zarathustr.github.io/), [Dr. Jianhao Jiao](https://gogojjh.github.io/),  [Mr. Linwei Zheng](https://scholar.google.com/citations?user=70iMcgoAAAAJ&hl=en), [Mr. Hexiang Wei](https://scholar.google.com/citations?user=VwOF_TkAAAAJ&hl=zh-CN), [Mr.Zuhao Zou](https://scholar.google.com/citations?user=mcDnbBYAAAAJ&hl=zh-TW), [Dr. Huaiyang Huang](https://hyhuang1995.github.io/), [Dr. Zhenhua Xu](https://tonyxuqaq.github.io/)
 
