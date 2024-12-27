@@ -53,7 +53,9 @@ I have had the privilege to collaborate with talented researchers:
 
 ## 📫 How to reach me
 
-Feel free to reach out to me for any questions or ideas through [GitHub Issues](https://github.com/JokerJohn/JokerJohn/issues).
+<span style="color:red">**I will graduate before August 2025 and am open to positions in SLAM, AR/VR, Robotics and other relevant areas. Please feel free to send me an email (xhubd@connect.ust.hk). Thank you!**</span>
+
+Also feel free to reach out to me for any questions or ideas through [GitHub Issues](https://github.com/JokerJohn/JokerJohn/issues).
 
 [![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JokerJohn&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
