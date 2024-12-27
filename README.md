@@ -8,10 +8,12 @@ My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visit
   
 - **Master's Degree in Software Engineering** at Beihang University (BUAA) (*Sept. 2018 – Feb. 2021*)
 	
-- **Bachelor's Degree in Detection Guidance and Control Technology** at North University of China (NUC) (*Sept. 2013 – Jul. 2017*)
+- **Bachelor's Degree in Detection Guidance and Control Technology** at North University of China  (*Sept. 2013 – Jul. 2017*)
 
 ## 🔬 Research Experience
 
+- **Visiting Ph.D student** (*Jan. 2025 – Aug. 2025*)
+  - Semantic mapping
 - **Ph.D candidate  (Supervisor: [Prof. Ping Tan](https://ece.hkust.edu.hk/pingtan))**
   - HKUST Robotics Institute, Hong Kong (*Feb. 2024 – Aug. 2025*)
   - *Localization using LiDAR and vision-based techniques*
@@ -26,7 +28,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visit
 
 ## 🤝 Collaborating Researchers
 I have had the privilege to collaborate with talented researchers:
-- [Dr. Jin Wu](https://zarathustr.github.io/), [Dr. Jianhao Jiao](https://gogojjh.github.io/),  [Mr. Linwei Zheng](https://scholar.google.com/citations?user=70iMcgoAAAAJ&hl=en), [Mr. Hexiang Wei](https://scholar.google.com/citations?user=VwOF_TkAAAAJ&hl=zh-CN), [Mr.Zuhao Zou](https://scholar.google.com/citations?user=mcDnbBYAAAAJ&hl=zh-TW)
+- [Dr. Jin Wu](https://zarathustr.github.io/), [Dr. Jianhao Jiao](https://gogojjh.github.io/),  [Mr. Linwei Zheng](https://scholar.google.com/citations?user=70iMcgoAAAAJ&hl=en), [Mr. Hexiang Wei](https://scholar.google.com/citations?user=VwOF_TkAAAAJ&hl=zh-CN), [Mr.Zuhao Zou](https://scholar.google.com/citations?user=mcDnbBYAAAAJ&hl=zh-TW), [Dr. Huaiyang Huang](https://hyhuang1995.github.io/), [Dr. Zhenhua Xu](https://tonyxuqaq.github.io/)
 
 ## 🚀 Research Interests
 
