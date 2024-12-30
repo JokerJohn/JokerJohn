@@ -33,12 +33,12 @@ I have had the privilege to collaborate with talented researchers:
 
 ## 🚀 Research Interests
 
-- Large-scale  mapping
-- LiDAR and vision localization 
+- Large-scale LiDAR mapping and localization
 - Uncertainty estimation
 - Point cloud registration
 
 ## :books: Publications and Manuscripts
+
 1. **X. Hu**, L. Zheng et al. "[PALoc: Advancing SLAM Benchmarking With Prior-Assisted 6-DoF Trajectory Generation and Uncertainty Estimation](https://github.com/JokerJohn/PALoc)," *IEEE/ASME Transactions on Mechatronics*, vol. 29, no. 6, pp. 4297-4308, Dec. 2024. [DOI: 10.1109/TMECH.2024.3362902](https://doi.org/10.1109/TMECH.2024.3362902)
 2. **X. Hu**, J. Wu et al. "[AM-Align: Globally Optimal Estimation of Accelerometer-Magnetometer Misalignment](https://github.com/JokerJohn/AM_Align)," *IEEE Transactions on Instrumentation and Measurement*, Sept. 2024. [DOI: 10.1109/TIM.20XX.XXX](https://doi.org/10.1109/TIM.20XX.XXX)
 3. **X. Hu**, J. Wu et al. "[MapEval: Towards Unified, Robust, and Efficient SLAM Map Evaluation Framework](https://github.com/JokerJohn/Cloud_Map_Evaluation)," *arXiv*. [arXiv:2411.17928](https://arxiv.org/abs/2411.17928)
