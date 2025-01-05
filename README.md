@@ -17,10 +17,10 @@
 - **Visiting Ph.D student** 
   - *Semantic mapping* (*Jan. 2025 – Aug. 2025*)
 - **Ph.D candidate  (Supervisor: [Prof. Ping Tan](https://ece.hkust.edu.hk/pingtan))**
-  - HKUST Robotics Institute, Hong Kong (*Feb. 2024 – Aug. 2025*)
+  - Von Neumann Institute, HKUST (*Feb. 2024 – Aug. 2025*)
   - *Localization using LiDAR and vision-based techniques*
 - **Ph.D student (Supervisor: [Prof. Ming Liu](https://scholar.google.com/citations?hl=en&user=CdV5LfQAAAAJ))** 
-  - [Intelligent Autonomous Driving Center (IADC)](https://ram-lab.com/), HKUST (*Sept. 2021 – Jan. 2024*)
+  - [Robotics Institute](https://ri.hkust.edu.hk/), [Intelligent Autonomous Driving Center (IADC)](https://ram-lab.com/), HKUST (*Sept. 2021 – Jan. 2024*)
   - *Large-scale outdoor mapping and localization for autonomous driving*
 - **Research Intern (Supervisor: [Prof. Dongbin Zhao](https://people.ucas.ac.cn/~zhaodongbin))**
   - Institute of Automation, Chinese Academy of Sciences, Beijing (*Apr. 2019 – Nov. 2019*)
