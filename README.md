@@ -1,11 +1,8 @@
 # 👋 Hi there, I'm Xiangcheng Hu
 
-My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visitor!
 
-| <a href="https://mapmyvisitors.com/web/1bxbk"  title="Visit tracker"><img src="./README/map-1736061925612-8.png" /></a> |      |
-| ------------------------------------------------------------ | ---- |
-
-
+| My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visitor! | <a href="https://mapmyvisitors.com/web/1bxbk"  title="Visit tracker"><img src="./README/map-1736061949175-11.png" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ## 🎓 Education
 
@@ -53,9 +50,7 @@ I have had the privilege to collaborate with talented researchers:
 
 ## 📊 GitHub Stats
 
-| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JokerJohn&show_icons=true&theme=buefy) | <a href="https://mapmyvisitors.com/web/1bxbk"  title="Visit tracker"><img src="./README/map.png" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JokerJohn&show_icons=true&theme=buefy)
 
 
 ## 📫 How to reach me
