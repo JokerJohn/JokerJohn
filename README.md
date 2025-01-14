@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Xiangcheng Hu
 
 
-| My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visitor! | <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=-7c2veSq9N7t2YgzAdtPw-joIN9RqGoLlXLdXLFnwnw'></script> |
+| My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visitor! | <a href='https://mapmyvisitors.com/web/1bxbk'  title='Visit tracker'><img src='./README/map-1736856070544-4.png'/></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ## 🎓 Education
