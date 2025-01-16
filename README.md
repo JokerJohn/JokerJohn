@@ -4,11 +4,6 @@
 | My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visitor! | <a href='https://mapmyvisitors.com/web/1bxbk'  title='Visit tracker'><img src='./README/map-1737023321593-1.png'/></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-<img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=tt&d=-7c2vesq9N7t2YgzAdtPw-joIN9RqGoLlLXLdXLFnww" />
-
-![Pageviews](https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=tt&d=-7c2vesq9N7t2YgzAdtPw-joIN9RqGoLlLXLdXLFnww)
-
-
 ## 🎓 Education
 
 - **Ph.D. Candidate**, Hong Kong University of Science and Technology (HKUST) (*Sept. 2021 – Aug. 2025*)
