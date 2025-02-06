@@ -35,7 +35,7 @@ I have had the privilege to collaborate with talented researchers:
 
 ## 🚀 Research Interests
 
-- Large-scale LiDAR mapping and localization
+- LiDAR mapping and localization
 - Uncertainty estimation
 - Point cloud registration
 - Semantic slam
