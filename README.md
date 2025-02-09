@@ -38,7 +38,7 @@ I have had the privilege to collaborate with talented researchers:
 - LiDAR mapping and localization
 - Uncertainty estimation
 - Point cloud registration
-- Semantic slam
+- Semantic mapping / Scene graph
 
 ## :books: Publications and Manuscripts
 
