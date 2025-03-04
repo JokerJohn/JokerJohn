@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Xiangcheng Hu
 
 
-| My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visitor! | <a href='https://mapmyvisitors.com/web/1bxbk'  title='Visit tracker'><img src='./README/map-1737023321593-1.png'/></a> |
+| My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visitor! | ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JokerJohn&show_icons=true&theme=buefy) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ## 🎓 Education
@@ -15,7 +15,7 @@
 ## 🔬 Research Experience
 
 - **Visiting Ph.D student** 
-  - *Semantic mapping* (*Jan. 2025 – Aug. 2025*)
+  - *Semantic mapping* (*Apr. 2025 – Aug. 2025*)
 - **Ph.D candidate  (Supervisor: [Prof. Ping Tan](https://ece.hkust.edu.hk/pingtan))**
   - Von Neumann Institute, HKUST (*Feb. 2024 – Aug. 2025*)
   - *Localization using LiDAR and vision-based techniques*
@@ -38,12 +38,12 @@ I have had the privilege to collaborate with talented researchers:
 - LiDAR mapping and localization
 - Uncertainty estimation
 - Point cloud registration
-- Semantic mapping / Scene graph
+- Scene graph
 
 ## :books: Publications and Manuscripts
 
 1. **X. Hu**, J. Wu et al. "[MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System](https://github.com/JokerJohn/MS-Mapping)," *arXiv*. [arXiv:2408.03723](https://arxiv.org/abs/2408.03723)
-2. **X. Hu**, J. Wu et al. "[MapEval: Towards Unified, Robust, and Efficient SLAM Map Evaluation Framework](https://github.com/JokerJohn/Cloud_Map_Evaluation)," *IEEE Robotics and Automation Letters ([**RA-L**](https://arxiv.org/abs/2411.17928))*, Feb. 2025. 
+2. **X. Hu**, J. Wu et al. "[MapEval: Towards Unified, Robust, and Efficient SLAM Map Evaluation Framework](https://github.com/JokerJohn/Cloud_Map_Evaluation)," *IEEE Robotics and Automation Letters (**RA-L**)*, Feb. 2025. [DOI:10.1109/LRA.2025.3548441](https://arxiv.org/abs/2411.17928) 
 3. **X. Hu***, J. Wu* et al. "[AM-Align: Globally Optimal Estimation of Accelerometer-Magnetometer Misalignment](https://github.com/JokerJohn/AM_Align)," *IEEE Transactions on Instrumentation and Measurement (**T-IM**)*, Sept. 2024. [DOI: 10.1109/TIM.2025.3541657](https://ieeexplore.ieee.org/document/10897324)
 4. **X. Hu**, L. Zheng et al. "[PALoc: Advancing SLAM Benchmarking With Prior-Assisted 6-DoF Trajectory Generation and Uncertainty Estimation](https://github.com/JokerJohn/PALoc)," *IEEE/ASME Transactions on Mechatronics  (**T-MECH**)*, vol. 29, no. 6, pp. 4297-4308, Dec. 2024. [DOI: 10.1109/TMECH.2024.3362902](https://doi.org/10.1109/TMECH.2024.3362902)
 5. J. Jiao\*, H. Wei\*, T. Hu\*, **X. Hu\*** et al. "FusionPortable: A Multi-Sensor Campus-Scene Dataset for Localization and Mapping Accuracy Evaluation," ***IROS** 2022*, pp. 3851-3856, Kyoto, Japan. [DOI: 10.1109/IROS47612.2022.9982119](https://doi.org/10.1109/IROS47612.2022.9982119)
@@ -51,8 +51,8 @@ I have had the privilege to collaborate with talented researchers:
 
 ## 📊 GitHub Stats
 
-| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JokerJohn&show_icons=true&theme=buefy) | ![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JokerJohn&theme=react) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JokerJohn&theme=react) |
+| ------------------------------------------------------------ |
 
 ## 📫 How to reach me
 
