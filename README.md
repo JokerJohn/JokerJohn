@@ -8,7 +8,7 @@
 
 - **Ph.D. Candidate**, Hong Kong University of Science and Technology (HKUST) (*Sept. 2021 – Aug. 2025*)
   
-- **Master's Degree in Software Engineering** at Beihang University (BUAA) (*Sept. 2018 – Feb. 2021*)
+- **Master's Degree in Software Engineering** at Beihang University (*Sept. 2018 – Feb. 2021*)
 	
 - **Bachelor's Degree in Detection Guidance and Control Technology** at North University of China  (*Sept. 2013 – Jul. 2017*)
 
