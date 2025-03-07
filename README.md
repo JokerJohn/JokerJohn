@@ -14,11 +14,12 @@
 
 ## 🔬 Research Experience
 
-- **Visiting Ph.D student** 
-  - *Semantic mapping* (*Apr. 2025 – Aug. 2025*)
+- **Visiting Ph.D student** **(Supervisor: [Prof. Steven L. Waslander](https://www.trailab.utias.utoronto.ca/steven-waslander))**
+  - Toronto Robotics and AI Laboratory, UOFT (*Mar. 2025 – Aug. 2025*)
+  - *Long-term Localization and Semantic mapping*
 - **Ph.D candidate  (Supervisor: [Prof. Ping Tan](https://ece.hkust.edu.hk/pingtan))**
   - Von Neumann Institute, HKUST (*Feb. 2024 – Aug. 2025*)
-  - *Localization using LiDAR and vision-based techniques*
+  - *LiDAR-based Localization and Multi-session Mapping*
 - **Ph.D student (Supervisor: [Prof. Ming Liu](https://scholar.google.com/citations?hl=en&user=CdV5LfQAAAAJ))** 
   - [Robotics Institute](https://ri.hkust.edu.hk/), [Intelligent Autonomous Driving Center (IADC)](https://ram-lab.com/), HKUST (*Sept. 2021 – Jan. 2024*)
   - *Large-scale outdoor mapping and localization for autonomous driving*
@@ -43,7 +44,7 @@ I have had the privilege to collaborate with talented researchers:
 ## :books: Publications and Manuscripts
 
 1. **X. Hu**, J. Wu et al. "[MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System](https://github.com/JokerJohn/MS-Mapping)," *arXiv*. [arXiv:2408.03723](https://arxiv.org/abs/2408.03723)
-2. **X. Hu**, J. Wu et al. "[MapEval: Towards Unified, Robust, and Efficient SLAM Map Evaluation Framework](https://github.com/JokerJohn/Cloud_Map_Evaluation)," *IEEE Robotics and Automation Letters (**RA-L**)*, Feb. 2025. [DOI:10.1109/LRA.2025.3548441](https://arxiv.org/abs/2411.17928) 
+2. **X. Hu**, J. Wu et al. "[MapEval: Towards Unified, Robust, and Efficient SLAM Map Evaluation Framework](https://github.com/JokerJohn/Cloud_Map_Evaluation)," *IEEE Robotics and Automation Letters (**RA-L**)*, Feb. 2025. [DOI:10.1109/LRA.2025.3548441](https://ieeexplore.ieee.org/document/10910156) 
 3. **X. Hu***, J. Wu* et al. "[AM-Align: Globally Optimal Estimation of Accelerometer-Magnetometer Misalignment](https://github.com/JokerJohn/AM_Align)," *IEEE Transactions on Instrumentation and Measurement (**T-IM**)*, Sept. 2024. [DOI: 10.1109/TIM.2025.3541657](https://ieeexplore.ieee.org/document/10897324)
 4. **X. Hu**, L. Zheng et al. "[PALoc: Advancing SLAM Benchmarking With Prior-Assisted 6-DoF Trajectory Generation and Uncertainty Estimation](https://github.com/JokerJohn/PALoc)," *IEEE/ASME Transactions on Mechatronics  (**T-MECH**)*, vol. 29, no. 6, pp. 4297-4308, Dec. 2024. [DOI: 10.1109/TMECH.2024.3362902](https://doi.org/10.1109/TMECH.2024.3362902)
 5. J. Jiao\*, H. Wei\*, T. Hu\*, **X. Hu\*** et al. "FusionPortable: A Multi-Sensor Campus-Scene Dataset for Localization and Mapping Accuracy Evaluation," ***IROS** 2022*, pp. 3851-3856, Kyoto, Japan. [DOI: 10.1109/IROS47612.2022.9982119](https://doi.org/10.1109/IROS47612.2022.9982119)
