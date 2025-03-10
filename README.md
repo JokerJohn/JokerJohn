@@ -14,8 +14,7 @@
 
 ## 🔬 Research Experience
 
-- **Visiting Ph.D student** **(Supervisor: [Prof. Steven L. Waslander](https://www.trailab.utias.utoronto.ca/steven-waslander))**
-  - Toronto Robotics and AI Laboratory, UOFT (*Mar. 2025 – Aug. 2025*)
+- **Visiting Ph.D student** (*Mar. 2025 – Aug. 2025*)
   - *Long-term Localization and Semantic mapping*
 - **Ph.D candidate  (Supervisor: [Prof. Ping Tan](https://ece.hkust.edu.hk/pingtan))**
   - Von Neumann Institute, HKUST (*Feb. 2024 – Aug. 2025*)
