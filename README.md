@@ -21,9 +21,9 @@ Also feel free to reach out to me for any questions or ideas through [GitHub Iss
 ## 🔬 Research Experience
 
 - **Visiting Ph.D student** **(Supervisor: [Prof. Steven L. Waslander](https://www.trailab.utias.utoronto.ca/steven-waslander))**
-  - Toronto Robotics and AI Laboratory, UOFT (*Mar. 2025 – Aug. 2025*)
+  - Toronto Robotics and AI Laboratory, U of T (*Mar. 2025 – Aug. 2025*)
   - *Long-term Localization and Semantic mapping*
-  - *Open-vocabulary Instance Segmentation and Scene Graph Generation for Embodied Robots*
+  - *Open-vocabulary Instance Segmentation and Scene Graph Generation*
 - **Ph.D candidate  (Supervisor: [Prof. Ping Tan](https://ece.hkust.edu.hk/pingtan))**
   - Von Neumann Institute, HKUST (*Feb. 2024 – Aug. 2025*)
   - *LiDAR-based Localization and Multi-session Mapping*
