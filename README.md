@@ -6,13 +6,11 @@
 
 ## 📫 How to reach me
 
-<span style="color:red">**I will graduate before August 2025 and am open to positions in SLAM, AR/VR, Robotics and other relevant areas. Please feel free to send me an email (xhubd@connect.ust.hk). Thank you!**</span>
-
-Also feel free to reach out to me for any questions or ideas through [GitHub Issues](https://github.com/JokerJohn/JokerJohn/issues).
+<span style="color:red">**I don't know when to graduate, but I'm open to positions in SLAM, AR/VR, Robotics and other relevant areas. Please feel free to send me an email (xhubd@connect.ust.hk). Thank you!**</span>
 
 ## 🎓 Education
 
-- **Ph.D. Candidate**, Hong Kong University of Science and Technology (HKUST) (*Sept. 2021 – Aug. 2025*)
+- **Ph.D. Candidate**, Hong Kong University of Science and Technology (HKUST) (*Sept. 2021 – now* )
   
 - **Master's Degree in Software Engineering** at Beihang University (*Sept. 2018 – Feb. 2021*)
 	
@@ -40,7 +38,7 @@ Also feel free to reach out to me for any questions or ideas through [GitHub Iss
 ## 🤝 Collaborating Researchers
 
 I have had the privilege to collaborate with talented researchers:
-- [Dr. Jin Wu](https://zarathustr.github.io/), [Dr. Jianhao Jiao](https://gogojjh.github.io/),  [Mr. Linwei Zheng](https://scholar.google.com/citations?user=70iMcgoAAAAJ&hl=en), [Mr. Hexiang Wei](https://scholar.google.com/citations?user=VwOF_TkAAAAJ&hl=zh-CN), [Mr.Zuhao Zou](https://scholar.google.com/citations?user=mcDnbBYAAAAJ&hl=zh-TW), [Dr. Huaiyang Huang](https://hyhuang1995.github.io/), [Dr. Zhenhua Xu](https://tonyxuqaq.github.io/)
+- [Prof. Jin Wu](https://zarathustr.github.io/), [Dr. Jianhao Jiao](https://gogojjh.github.io/),  [Mr. Linwei Zheng](https://scholar.google.com/citations?user=70iMcgoAAAAJ&hl=en), [Mr. Hexiang Wei](https://scholar.google.com/citations?user=VwOF_TkAAAAJ&hl=zh-CN), [Mr.Zuhao Zou](https://scholar.google.com/citations?user=mcDnbBYAAAAJ&hl=zh-TW), [Dr. Huaiyang Huang](https://hyhuang1995.github.io/), [Dr. Zhenhua Xu](https://tonyxuqaq.github.io/)
 
 ## :books: Publications and Manuscripts
 
