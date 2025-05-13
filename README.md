@@ -10,11 +10,11 @@
 
 ## 🎓 Education
 
-- **Ph.D. Candidate**, Hong Kong University of Science and Technology (HKUST) (*Sept. 2021 – now* )
+- **Ph.D. Candidate**, [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST) (*Sept. 2021 – now* )
   
-- **Master's Degree in Software Engineering** at Beihang University (*Sept. 2018 – Feb. 2021*)
+- **Master's Degree in Software Engineering** at [Beihang University](https://ev.buaa.edu.cn/) (*Sept. 2018 – Feb. 2021*)
 	
-- **Bachelor's Degree in Detection Guidance and Control Technology** at North University of China  (*Sept. 2013 – Jul. 2017*)
+- **Bachelor's Degree in Detection Guidance and Control Technology** at [North University of China](https://www.nuc.edu.cn/)  (*Sept. 2013 – Jul. 2017*)
 
 ## 🔬 Research Experience
 
