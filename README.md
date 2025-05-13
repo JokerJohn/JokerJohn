@@ -54,9 +54,9 @@ I have had the privilege to collaborate with talented researchers:
 | ![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JokerJohn&theme=react) |
 | ------------------------------------------------------------ |
 
-## 🔥 Important Repositories In My Research
+## 🔥 Important Repositories
 
-Key repository from my PhD research process, containing SLAM tools, paper figure plotting scripts, dataset processing scripts, and more. Hope this will be helpful for newcomers to scientific research.
+Key repository from my PhD research process, containing SLAM tools, paper figure plotting scripts, dataset processing scripts, and more. 
 
 | <a href="https://github.com/JokerJohn/SLAMTools"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JokerJohn&repo=SLAMTools&theme=buefy" /></a> | <a href="https://github.com/JokerJohn/MS-Dataset"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JokerJohn&repo=MS-Dataset&theme=buefy" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
