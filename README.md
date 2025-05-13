@@ -23,7 +23,7 @@
   - *Long-term Localization and Ill-conditioned point cloud registration*
   - *Open-vocabulary Instance Segmentation and Scene Graph Generation*
 - **Ph.D candidate  (Supervisor: [Prof. Ping Tan](https://ece.hkust.edu.hk/pingtan))**
-  - Von Neumann Institute, HKUST (*Feb. 2024 – Aug. 2025*)
+  - Von Neumann Institute, HKUST (*Feb. 2024 – now*)
   - *LiDAR-based Localization and Multi-session Mapping*
   - *Uncertainty Estimation*
 - **Ph.D student (Supervisor: [Prof. Ming Liu](https://scholar.google.com/citations?hl=en&user=CdV5LfQAAAAJ))** 
