@@ -6,7 +6,7 @@
 
 ## 📫 How to reach me
 
-<span style="color:red">**I don't know when I will graduate, but I'm open to positions in SLAM, AR/VR, Robotics and other relevant areas. Please feel free to send me an email (xhubd@connect.ust.hk). Thank you!**</span>
+<span style="color:red">**I don't know when I can graduate, but I'm open to positions in SLAM, AR/VR, Robotics and other relevant areas. Please feel free to send me an email (xhubd@connect.ust.hk). Thank you!**</span>
 
 ## 🎓 Education
 
