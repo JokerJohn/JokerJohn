@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Xiangcheng Hu
 
 
-| My ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) visitor! | ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JokerJohn&show_icons=true&theme=buefy) |
+| Visitor ![Visitor Count](https://profile-counter.glitch.me/JokerJohn/count.svg) | ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JokerJohn&show_icons=true&theme=buefy) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ## 📫 How to reach me
@@ -10,7 +10,7 @@
 
 ## 🎓 Education
 
-- **Ph.D. Candidate**, [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST) (*Sept. 2021 – now* )
+- **Ph.D. Candidate**, [Hong Kong University of Science and Technology](https://hkust.edu.hk/)  (*Sept. 2021 – now* )
   
 - **Master's Degree in Software Engineering** at [Beihang University](https://ev.buaa.edu.cn/) (*Sept. 2018 – Feb. 2021*)
 	
@@ -23,7 +23,7 @@
   - *Long-term Localization and Ill-conditioned point cloud registration*
   - *Open-vocabulary Instance Segmentation and Scene Graph Generation*
 - **Ph.D candidate  (Supervisor: [Prof. Ping Tan](https://ece.hkust.edu.hk/pingtan))**
-  - Von Neumann Institute, HKUST (*Feb. 2024 – now*)
+  - [Von Neumann Institute](https://vni.ust.hk/), [Robotics Institute](https://ri.hkust.edu.hk/), HKUST (*Feb. 2024 – now*)
   - *LiDAR-based Localization and Multi-session Mapping*
   - *Uncertainty Estimation*
 - **Ph.D student (Supervisor: [Prof. Ming Liu](https://scholar.google.com/citations?hl=en&user=CdV5LfQAAAAJ))** 
