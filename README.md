@@ -28,7 +28,6 @@
   - [Robotics Institute](https://ri.hkust.edu.hk/), [Intelligent Autonomous Driving Center (IADC)](https://ram-lab.com/), HKUST (*Sept. 2021 – now*)
   - *LiDAR-based Localization and Multi-session Mapping*
   - *Uncertainty Estimation*
-  
   - *Large-scale outdoor mapping and localization*
   
 - **Research Intern (Supervisor: [Prof. Dongbin Zhao](https://people.ucas.ac.cn/~zhaodongbin))**
