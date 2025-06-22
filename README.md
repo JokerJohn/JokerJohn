@@ -29,7 +29,7 @@
   - *LiDAR-based Localization and Multi-session Mapping*
   - *Uncertainty Estimation*
   
-  - *Large-scale outdoor mapping and localization
+  - *Large-scale outdoor mapping and localization*
   
 - **Research Intern (Supervisor: [Prof. Dongbin Zhao](https://people.ucas.ac.cn/~zhaodongbin))**
   - Institute of Automation, Chinese Academy of Sciences, Beijing (*Apr. 2019 – Nov. 2019*)
