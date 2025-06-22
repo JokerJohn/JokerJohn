@@ -22,7 +22,7 @@
   - Toronto Robotics and AI Laboratory, U of T (*Mar. 2025 – Sept. 2025*)
   - *Long-term Localization and Ill-conditioned point cloud registration*
   - *Open-vocabulary Instance Segmentation and Scene Graph Generation*
-- **Ph.D candidate **
+- **Ph.D candidate**
   - [Von Neumann Institute](https://vni.ust.hk/), [Robotics Institute](https://ri.hkust.edu.hk/), HKUST (*Feb. 2024 – now*)
   - *LiDAR-based Localization and Multi-session Mapping*
   - *Uncertainty Estimation*
