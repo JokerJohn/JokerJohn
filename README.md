@@ -18,15 +18,15 @@
 
 ## 🔬 Research Experience
 
-- **Visiting Ph.D student** **(Supervisor: [Prof. Steven L. Waslander](https://www.trailab.utias.utoronto.ca/steven-waslander))**
-  - Toronto Robotics and AI Laboratory, U of T (*Mar. 2025 – Aug. 2025*)
+- **Visiting Ph.D student** 
+  - Toronto Robotics and AI Laboratory, U of T (*Mar. 2025 – Sept. 2025*)
   - *Long-term Localization and Ill-conditioned point cloud registration*
   - *Open-vocabulary Instance Segmentation and Scene Graph Generation*
-- **Ph.D candidate  (Supervisor: [Prof. Ping Tan](https://ece.hkust.edu.hk/pingtan))**
+- **Ph.D candidate **
   - [Von Neumann Institute](https://vni.ust.hk/), [Robotics Institute](https://ri.hkust.edu.hk/), HKUST (*Feb. 2024 – now*)
   - *LiDAR-based Localization and Multi-session Mapping*
   - *Uncertainty Estimation*
-- **Ph.D student (Supervisor: [Prof. Ming Liu](https://scholar.google.com/citations?hl=en&user=CdV5LfQAAAAJ))** 
+- **Ph.D student** 
   - [Robotics Institute](https://ri.hkust.edu.hk/), [Intelligent Autonomous Driving Center (IADC)](https://ram-lab.com/), HKUST (*Sept. 2021 – Jan. 2024*)
   - *Large-scale outdoor mapping and localization for autonomous driving*
 - **Research Intern (Supervisor: [Prof. Dongbin Zhao](https://people.ucas.ac.cn/~zhaodongbin))**
