@@ -43,8 +43,8 @@ I have had the privilege to collaborate with talented researchers:
 
 ## :books: Publications and Manuscripts
 
-1. **X. Hu**, X. Chen et al. "[DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registration](https://github.com/JokerJohn/DCReg),"  *arXiv*. [arXiv:2509.06285](https://arxiv.org/abs/2509.06285)
-2. **X. Hu**, J. Wu et al. "[MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System](https://github.com/JokerJohn/MS-Mapping)," *arXiv*. [arXiv:2408.03723](https://arxiv.org/abs/2408.03723)
+1. **X. Hu**, X. Chen et al. "[DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registration](https://github.com/JokerJohn/DCReg),"  [arXiv:2509.06285](https://arxiv.org/abs/2509.06285)
+2. **X. Hu**, J. Wu et al. "[MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System](https://github.com/JokerJohn/MS-Mapping),"  [arXiv:2408.03723](https://arxiv.org/abs/2408.03723)
 3. **X. Hu**, J. Wu et al. "[MapEval: Towards Unified, Robust, and Efficient SLAM Map Evaluation Framework](https://github.com/JokerJohn/Cloud_Map_Evaluation)," *IEEE Robotics and Automation Letters (**RA-L**)*, Feb. 2025. [DOI:10.1109/LRA.2025.3548441](https://ieeexplore.ieee.org/document/10910156) 
 4. **X. Hu***, J. Wu* et al. "[AM-Align: Globally Optimal Estimation of Accelerometer-Magnetometer Misalignment](https://github.com/JokerJohn/AM_Align)," *IEEE Transactions on Instrumentation and Measurement (**T-IM**)*, Sept. 2024. [DOI: 10.1109/TIM.2025.3541657](https://ieeexplore.ieee.org/document/10897324)
 5. **X. Hu**, L. Zheng et al. "[PALoc: Advancing SLAM Benchmarking With Prior-Assisted 6-DoF Trajectory Generation and Uncertainty Estimation](https://github.com/JokerJohn/PALoc)," *IEEE/ASME Transactions on Mechatronics  (**T-MECH**)*, vol. 29, no. 6, pp. 4297-4308, Dec. 2024. [DOI: 10.1109/TMECH.2024.3362902](https://doi.org/10.1109/TMECH.2024.3362902)
