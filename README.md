@@ -21,7 +21,7 @@
 - **Visiting Ph.D student** 
   - Toronto Robotics and AI Laboratory, U of T (*Mar. 2025 – Sept. 2025*)
   - *Long-term Localization and Ill-conditioned point cloud registration*
-  - *Open-vocabulary Instance Segmentation*
+  - *Open-vocabulary Semantic mapping*
   
 - **Ph.D candidate**
   
@@ -50,6 +50,8 @@ I have had the privilege to collaborate with talented researchers:
 5. **X. Hu**, L. Zheng et al. "[PALoc: Advancing SLAM Benchmarking With Prior-Assisted 6-DoF Trajectory Generation and Uncertainty Estimation](https://github.com/JokerJohn/PALoc)," *IEEE/ASME Transactions on Mechatronics  (**T-MECH**)*, vol. 29, no. 6, pp. 4297-4308, Dec. 2024. [DOI: 10.1109/TMECH.2024.3362902](https://doi.org/10.1109/TMECH.2024.3362902)
 6. J. Jiao\*, H. Wei\*, T. Hu\*, **X. Hu\*** et al. "FusionPortable: A Multi-Sensor Campus-Scene Dataset for Localization and Mapping Accuracy Evaluation," ***IROS** 2022*, pp. 3851-3856, Kyoto, Japan. [DOI: 10.1109/IROS47612.2022.9982119](https://doi.org/10.1109/IROS47612.2022.9982119)
 7. H. Wei\*, J. Jiao\*,**X. Hu**, et al. "[FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments](https://journals.sagepub.com/doi/full/10.1177/02783649241303525)," *The International Journal of Robotics Research (**IJRR**)*. [DOI: 10.1177/02783649241303525](https://doi.org/10.1177/02783649241303525)
+8. Wu, J., Zheng, Y., Gao, Z., Jiang, Y., **Hu, X**., Zhu, Y., ... & Liu, M. (2022). Quadratic pose estimation problems: Globally optimal solutions, solvability/observability analysis, and uncertainty description. IEEE Transactions on Robotics(**T-RO**), 38(5), 3314-3335.
+
 
 ## 📊 GitHub Stats
 
