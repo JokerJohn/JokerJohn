@@ -22,14 +22,11 @@
   - Toronto Robotics and AI Laboratory, U of T (*Mar. 2025 – Sept. 2025*)
   - *Long-term Localization and Ill-conditioned point cloud registration*
   - *Open-vocabulary Semantic mapping*
-  
 - **Ph.D candidate**
   
   - [Robotics Institute](https://ri.hkust.edu.hk/), [Intelligent Autonomous Driving Center (IADC)](https://ram-lab.com/), HKUST (*Sept. 2021 – now*)
   - *LiDAR-based Localization and Multi-session Mapping*
   - *Uncertainty Estimation*
-  - *Large-scale outdoor mapping and localization*
-  
 - **Research Intern (Supervisor: [Prof. Dongbin Zhao](https://people.ucas.ac.cn/~zhaodongbin))**
   - Institute of Automation, Chinese Academy of Sciences, Beijing (*Apr. 2019 – Nov. 2019*)
   - *Multi-sensor fusion for localization and mapping in campus environments*
