@@ -36,7 +36,7 @@
 ## 🤝 Collaborating Researchers
 
 I have had the privilege to collaborate with talented researchers:
-- [Prof. Jin Wu](https://zarathustr.github.io/), [Dr. Jianhao Jiao](https://gogojjh.github.io/), [Prof. Xieyuanli Chen](https://chen-xieyuanli.github.io/),  [Mr. Linwei Zheng](https://scholar.google.com/citations?user=70iMcgoAAAAJ&hl=en), [Mr. Hexiang Wei](https://scholar.google.com/citations?user=VwOF_TkAAAAJ&hl=zh-CN), [Mr.Zuhao Zou](https://scholar.google.com/citations?user=mcDnbBYAAAAJ&hl=zh-TW), [Dr. Huaiyang Huang](https://hyhuang1995.github.io/), [Dr. Zhenhua Xu](https://tonyxuqaq.github.io/)
+- [Prof. Jin Wu](https://zarathustr.github.io/), [Prof. Xieyuanli Chen](https://chen-xieyuanli.github.io/),  [Dr. Jianhao Jiao](https://gogojjh.github.io/), [Mr. Linwei Zheng](https://scholar.google.com/citations?user=70iMcgoAAAAJ&hl=en), [Mr. Hexiang Wei](https://scholar.google.com/citations?user=VwOF_TkAAAAJ&hl=zh-CN), [Mr.Zuhao Zou](https://scholar.google.com/citations?user=mcDnbBYAAAAJ&hl=zh-TW), [Dr. Huaiyang Huang](https://hyhuang1995.github.io/), [Dr. Zhenhua Xu](https://tonyxuqaq.github.io/)
 
 ## :books: Publications and Manuscripts
 
