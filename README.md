@@ -2,13 +2,13 @@
 
 I am a Ph.D. candidate at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), with research interests in SLAM, AR/VR, and robotics.
 
-My earlier work focused on two core challenges in LiDAR SLAM: covariance estimation and point-cloud degeneracy. I study covariance estimation from a multi-sensor fusion perspective, especially long-horizon observability analysis in nonlinear systems, and I study point-cloud degeneracy from the perspective of instantaneous explicit-constraint analysis.
+My previous work in LiDAR SLAM focused on two core topics: covariance estimation and geometric degeneracy. For covariance estimation, I study observability in long-horizon nonlinear multi-sensor fusion systems. For degeneracy, I analyze rank-deficient geometric constraints and their impact on state estimation.
 
-My current research has expanded to feed-forward 3D reconstruction, open-vocabulary semantic mapping, and 3D Gaussian Splatting (3DGS), with applications to world models and closed-loop simulation training for embodied agents.
+My current interests include feed-forward 3D reconstruction, open-vocabulary semantic mapping, and 3D Gaussian Splatting (3DGS), with applications to world-model construction and simulation pipelines for embodied AI.
 
 ## 📫 Contact
 
-I am open to research and engineering opportunities in SLAM, AR/VR, robotics, and related areas. I am also available for part-time technical consulting, including end-to-end solutions for mapping and localization, cloud crowdsourcing, and map updates tailored to specific sensor hardware stacks.
+I am open to research and engineering opportunities in SLAM, AR/VR, robotics, and related areas. I am also available for part-time technical consulting on sensor-driven mapping and localization systems, including cloud-based map aggregation and map maintenance pipelines.
 
 Feel free to reach me at [xhubd@connect.ust.hk](mailto:xhubd@connect.ust.hk).
 
