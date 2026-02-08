@@ -2,9 +2,14 @@
 
 I am a Ph.D. candidate at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), with research interests in SLAM, AR/VR, and robotics.
 
+My earlier work focused on two core challenges in LiDAR SLAM: covariance estimation and point-cloud degeneracy. I study covariance estimation from a multi-sensor fusion perspective, especially long-horizon observability analysis in nonlinear systems, and I study point-cloud degeneracy from the perspective of instantaneous explicit-constraint analysis.
+
+My current research has expanded to feed-forward 3D reconstruction, open-vocabulary semantic mapping, and 3D Gaussian Splatting (3DGS), with applications to world models and closed-loop simulation training for embodied agents.
+
 ## 📫 Contact
 
-I am open to research and engineering opportunities in SLAM, AR/VR, robotics, and related areas.  
+I am open to research and engineering opportunities in SLAM, AR/VR, robotics, and related areas. I am also available for part-time technical consulting, including end-to-end solutions for mapping and localization, cloud crowdsourcing, and map updates tailored to specific sensor hardware stacks.
+
 Feel free to reach me at [xhubd@connect.ust.hk](mailto:xhubd@connect.ust.hk).
 
 ## 🎓 Education
@@ -23,16 +28,7 @@ Feel free to reach me at [xhubd@connect.ust.hk](mailto:xhubd@connect.ust.hk).
 
 ## 🤝 Collaborating Researchers
 
-I have had the privilege to collaborate with:
-
-- [Prof. Jin Wu](https://zarathustr.github.io/)
-- [Prof. Xieyuanli Chen](https://chen-xieyuanli.github.io/)
-- [Dr. Jianhao Jiao](https://gogojjh.github.io/)
-- [Linwei Zheng](https://scholar.google.com/citations?user=70iMcgoAAAAJ&hl=en)
-- [Hexiang Wei](https://scholar.google.com/citations?user=VwOF_TkAAAAJ&hl=zh-CN)
-- [Zuhao Zou](https://scholar.google.com/citations?user=mcDnbBYAAAAJ&hl=zh-TW)
-- [Dr. Huaiyang Huang](https://hyhuang1995.github.io/)
-- [Dr. Zhenhua Xu](https://tonyxuqaq.github.io/)
+I have had the privilege to collaborate with [Prof. Jin Wu](https://zarathustr.github.io/), [Prof. Xieyuanli Chen](https://chen-xieyuanli.github.io/), [Dr. Jianhao Jiao](https://gogojjh.github.io/), [Linwei Zheng](https://scholar.google.com/citations?user=70iMcgoAAAAJ&hl=en), [Hexiang Wei](https://scholar.google.com/citations?user=VwOF_TkAAAAJ&hl=zh-CN), [Zuhao Zou](https://scholar.google.com/citations?user=mcDnbBYAAAAJ&hl=zh-TW), [Dr. Huaiyang Huang](https://hyhuang1995.github.io/), and [Dr. Zhenhua Xu](https://tonyxuqaq.github.io/).
 
 ## 📚 Publications and Manuscripts
 
@@ -48,17 +44,9 @@ I have had the privilege to collaborate with:
 
 \* Equal contribution.
 
-## 📊 GitHub Overview
-
-- GitHub profile: [@JokerJohn](https://github.com/JokerJohn)
-- Public repositories: [github.com/JokerJohn?tab=repositories](https://github.com/JokerJohn?tab=repositories)
-- Contributions: [github.com/JokerJohn](https://github.com/JokerJohn)
-
 ## 🔥 Important Repositories
 
 Selected repositories from my Ph.D. research process, including SLAM tools, dataset resources, and evaluation frameworks:
 
 - [SLAMTools](https://github.com/JokerJohn/SLAMTools): utilities and scripts for SLAM research workflows.
 - [MS-Dataset](https://github.com/JokerJohn/MS-Dataset): dataset resources for mapping and localization studies.
-- [MapEval (Cloud_Map_Evaluation)](https://github.com/JokerJohn/Cloud_Map_Evaluation): map evaluation framework for SLAM systems.
-- [PALoc](https://github.com/JokerJohn/PALoc): benchmarking with prior-assisted 6-DoF trajectory generation and uncertainty estimation.
