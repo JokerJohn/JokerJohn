@@ -1,16 +1,12 @@
 # 👋 Hi there, I'm Xiangcheng Hu
 
-I am a Ph.D. candidate at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), with research interests in SLAM, AR/VR, and robotics.
+I am a Ph.D. candidate at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), with research interests in SLAM, AR/VR, and robotics.My previous work in LiDAR SLAM focused on two core topics: covariance estimation and geometric degeneracy. For covariance estimation, I study observability in long-duration nonlinear multi-sensor fusion systems. For degeneracy, I analyze rank-deficient geometric constraints and their impact on state estimation.
 
-My previous work in LiDAR SLAM focused on two core topics: covariance estimation and geometric degeneracy. For covariance estimation, I study observability in long-horizon nonlinear multi-sensor fusion systems. For degeneracy, I analyze rank-deficient geometric constraints and their impact on state estimation.
-
-My current interests include feed-forward 3D reconstruction, open-vocabulary semantic mapping, and 3D Gaussian Splatting (3DGS), with applications to world-model construction and simulation pipelines for embodied AI.
+My current interests include feed-forward 3D reconstruction, open-vocabulary semantic mapping, and 3D Gaussian Splatting (3DGS), with applications to world-model and simulation pipelines for embodied AI.
 
 ## 📫 Contact
 
-I am open to research and engineering opportunities in SLAM, AR/VR, robotics, and related areas. I am also available for part-time technical consulting on sensor-driven mapping and localization systems, including cloud-based map aggregation and map maintenance pipelines.
-
-Feel free to reach me at [xhubd@connect.ust.hk](mailto:xhubd@connect.ust.hk).
+I am open to research and engineering opportunities in SLAM, AR/VR, robotics, and related areas. I am also available for part-time technical consulting on mapping and localization systems, including cloud-based map construction and update pipelines. Feel free to reach me at [xhubd@connect.ust.hk](mailto:xhubd@connect.ust.hk).
 
 ## 🎓 Education
 
@@ -42,7 +38,6 @@ I have had the privilege to collaborate with [Prof. Jin Wu](https://zarathustr.g
 8. Z. Chen, Y. Qi, D. Feng, X. Zhuang, H. Chen, **X. Hu**, J. Wu, K. Peng, and P. Lu. "[Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios](https://github.com/PengYu-Team/GEODE_dataset)." *The International Journal of Robotics Research* (**IJRR**), 2024:02783649251344967.
 9. J. Wu, Y. Zheng, Z. Gao, Y. Jiang, **X. Hu**, Y. Zhu, et al. (2022). "[Quadratic Pose Estimation Problems: Globally Optimal Solutions, Solvability/Observability Analysis, and Uncertainty Description](https://github.com/zarathustr/LibQPEP)." *IEEE Transactions on Robotics* (**T-RO**), 38(5), 3314-3335.
 
-\* Equal contribution.
 
 ## 🔥 Important Repositories
 
