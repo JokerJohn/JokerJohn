@@ -29,6 +29,7 @@ I have had the privilege to collaborate with [Prof. Jin Wu](https://zarathustr.g
 ## 📚 Publications and Manuscripts
 
 1. **X. Hu**. "[P²Calib: Utilizing Pattern Priors for LiDAR–Camera Extrinsic Calibration](https://github.com/JokerJohn/P2Calib)," [arXiv:2609.07516](https://arxiv.org/abs/2609.07516).
+2. **X. Hu**. "[Automatic Reproducible Camera Intrinsic Calibration](https://github.com/JokerJohn/IntrinsicCalib)," [arXiv:2609.10082](https://arxiv.org/abs/2609.10082).
 2. **X. Hu**, J. Wu et al. "[MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System](https://github.com/JokerJohn/MS-Mapping)," [arXiv:2408.03723](https://arxiv.org/abs/2408.03723).
 3. **X. Hu**, X. Chen et al. "[DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registration](https://github.com/JokerJohn/DCReg)," *The International Journal of Robotics Research* (**IJRR**), Aug 2026. [DOI: 10.1177/02783649261465040](https://journals.sagepub.com/doi/abs/10.1177/02783649261465040).
 4. **X. Hu**, J. Wu et al. "[MapEval: Towards Unified, Robust, and Efficient SLAM Map Evaluation Framework](https://github.com/JokerJohn/Cloud_Map_Evaluation)," *IEEE Robotics and Automation Letters* (**RA-L**), Feb 2025. [DOI: 10.1109/LRA.2025.3548441](https://ieeexplore.ieee.org/document/10910156).
